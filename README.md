@@ -14,7 +14,7 @@ values that are over the limit.
 Let the limit for NOx be 300. You can use the random number generate to
 simulate the NOx sensor. Let the sensor generate values between 200 and 400.
 Create Classes for the engine controller, NOx sensor, and the strategies
-including interface. Draw the UML diagram J ( This is free exam practice)
+including interface. 
 The controller has a public method getNOx() that uses the strategy to read from
 the sensor. This means the strategy needs to have a reference to the NOx
 sensor.
