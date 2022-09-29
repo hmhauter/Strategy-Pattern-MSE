@@ -1,7 +1,7 @@
 # Strategy-Pattern
-Implementierung des Strategy-Patterns im Rahmen des Informatik II Kurses für MSE
+Implementation of the strategy pattern as part of the Computer Science II course for MSE
 
-# Aufgabe
+# Task
 Imagine you are working in the automotive industry and are tasked with writing
 the code for an engine controller. The controller is supposed to read the values
 from an NOx sensor and provide them to the Main class.
